@@ -1,4 +1,4 @@
-![demo](https://drive.google.com/file/d/1nPLjGB0UhO5mLZB1h-9avxHK1tkjdhL4/view?usp=sharing)
+![demo](game_demo.gif)
 
 # スロットゲームの作成
 
